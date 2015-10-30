@@ -1,5 +1,5 @@
 #LuLu Crawler
-LuLu Crawler 是結合 [MakeeAPI](https://github.com/makee-workshop/MakeeAPI)、[SimpleCrawler](https://github.com/cgiffard/node-simplecrawler)、[Cheerio](https://github.com/cheeriojs/cheerio) 的爬蟲應用程式，它將會爬取指定目標，並將欲擷取之資料存入資料庫中。
+LuLu Crawler 是結合 [MakeeAPI](https://github.com/makee-workshop/MakeeAPI)、[SimpleCrawler](https://github.com/cgiffard/node-simplecrawler)、[Cheerio](https://github.com/cheeriojs/cheerio) 的爬蟲應用程式，它將會爬取指定網域，並將欲擷取之資料存入資料庫中。
 
 
 安裝 (Install)
