@@ -133,7 +133,8 @@ app.utility.workflow = require('drywall-workflow');
 
 //listen up
 app.server.listen(app.get('port'), function(){
-  //and... we're live
+  
+  //爬蟲主程式
   require('./spider')(app, crawler, request, cheerio);
   
 });
