@@ -42,6 +42,10 @@ $ brew install nodejs
 $ brew install mongodb
 ```
 
+版本資訊
+==============
+* Node：0.10.38
+
 License
 ==============
 
